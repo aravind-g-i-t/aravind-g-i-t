@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Aravind 👋
+Full Stack Developer | JavaScript | Node.js | React | MongoDB  
 
-<!--
-**aravind-g-i-t/aravind-g-i-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on writing clean, modular, and production-ready code.
+Currently learning clean architecture and TypeScript best practices.
+Reach me: connectwitharavind.dev@gmail.com  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![JS](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
